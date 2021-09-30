@@ -1,0 +1,7 @@
+export const tasksTypes = Object.freeze({
+    SET_TASK_LIST:        'SET_TASK_LIST',
+    UPDATE_TASK_LIST:     'UPDATE_TASK_LIST',
+    SET_SELECTED_TASK:    'SET_SELECTED_TASK',
+    SET_TASK_FORM_OPEN:   'SET_TASK_FORM_OPEN',
+    SET_IS_TASKS_LOADING: 'SET_IS_TASKS_LOADING',
+});
